@@ -1,0 +1,13 @@
+<section class="cardapio">
+  <h2>Nosso Cardápio</h2>
+
+  <div class="lista">
+    <div class="card" *ngFor="let item of itensCardapio">
+      <img [src]="item.imagem" [alt]="item.nome" />
+
+      <h3>{{ item.nome }}</h3>
+      <p>{{ item.descricao }}</p>
+      <span class="preco">{{ item.preco }}</span>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,23 @@
+.contato {
+  padding: 40px;
+  text-align: center;
+}
+
+.info p {
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.btn-maps {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1c1c1c;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.btn-maps:hover {
+  background-color: #333;
+}
