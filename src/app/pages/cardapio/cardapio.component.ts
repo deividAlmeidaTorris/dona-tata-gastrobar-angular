@@ -14,7 +14,7 @@ export class CardapioComponent {
       nome: 'Porção de Calabresa',
       descricao: 'Acompanha farofa, limão e molho da casa',
       preco: 'R$ 35,00',
-      imagem: '/imagens/porcao calabresa.webp',
+      imagem: '/imagens/porcao-calabresa.webp',
     },
     {
       nome: 'Chopp Brahma',

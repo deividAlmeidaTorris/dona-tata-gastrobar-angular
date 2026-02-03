@@ -11,7 +11,7 @@ import { CommonModule } from '@angular/common';
 export class GaleriaComponent {
   fotos = [
     '/imagens/frente-loja.webp',
-    '/imagens/interior loja.webp',
+    '/imagens/interior-loja.webp',
     '/imagens/comidas.webp',
     '/imagens/choop-gelado.webp',
     '/imagens/telao.webp',
